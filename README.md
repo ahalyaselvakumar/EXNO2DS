@@ -24,8 +24,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 
-## NAME:N.NAVYA SREE
-## REG.NO: 212223040138
+## NAME: AHALYA S
+## REG.NO: 212223230006
 ```
 import pandas as pd
 import numpy as np
